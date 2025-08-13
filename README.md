@@ -169,7 +169,7 @@ console.log(frutas); // ["Maçã", "Banana", "Laranja"]
 
 ###
 
-[Meu Perfil](
+[Acesse o Meu Perfil](https://github.com/Kauan19-hub/Kauan19-hub.git)
 
 
 

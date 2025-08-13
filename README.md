@@ -4,7 +4,7 @@
 
 **<h2>🚀 Códigos iniciantes de JavaScript 🚀</h2>**
 
-###
+---
 
 Este repositório, foi desenvolvido com o objetivo de ajudar pessoas que estão começando a programar em<br>
 JavaScript com códigos báscios e super legais e fáceis de usar!
@@ -167,7 +167,7 @@ console.log(frutas); // ["Maçã", "Banana", "Laranja"]
 
 **<h2>Muito Obrigado, e Bons Estudos! 👋</h2>**
 
-###
+---
 
 [Acesse o Meu Perfil](https://github.com/Kauan19-hub)
 

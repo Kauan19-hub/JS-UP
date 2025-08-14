@@ -117,7 +117,7 @@ console.log(pessoa.idade); // 31
 
 ###
 
-5️⃣- Exemplo com array:
+5️⃣- Exemplo com `array`:
 
 ###
 ```js

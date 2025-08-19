@@ -160,7 +160,7 @@ console.log(frutas); // ["Maçã", "Banana", "Laranja"]
 - ✅ Windows 11;
 - ✅ Navegador Chrome;
 - ✅ Extensão Live Server, VSCode;
-- ✅ Mobile (Chrome Android;
+- ✅ Mobile (Chrome Android);
 - ✅ Node.JS.
 
 ###

@@ -165,6 +165,42 @@ console.log(frutas); // ["Maçã", "Banana", "Laranja"]
 
 ###
 
+**<h2>⚙️ Para futuras atualizações:</h2>**
+
+###
+
+Caso você precise adicionar mais algum arquivo dentro de um repositório já existente, desenvolva o seguinte<br>
+comando:
+
+###
+```bash
+git clone (URL_DO_REPOSITÓRIO)
+```
+###
+
+No terminal, ou bash, digite:
+
+###
+```bash
+git init
+```
+
+###
+```bash
+git add .
+```
+
+###
+```bash
+git commit -m "(TEXTO)"
+```
+
+###
+```bash
+git push -u origin master
+```
+
+
 **<h2>Muito Obrigado, e Bons Estudos! 👋</h2>**
 
 ---
